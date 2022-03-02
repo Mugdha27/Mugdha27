@@ -32,7 +32,7 @@
 <table>
   <tr>
      <p align="center">
-      <img src="http://winkkk.com/photo/6567.gif" width="150px">
+      <img src=" " width="150px">
         <img src="https://github-profile-trophy.vercel.app/?username=mugdha27&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=black-ice&no- bg=true&column=3&margin-w=15&margin-h=15">
        <img src="http://winkkk.com/photo/6904.gif" width="130px">
     </p>
